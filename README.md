@@ -1,6 +1,7 @@
 ### Hey there, I'm Kartikeya  👋
-
+<!--
 ![image](image/cover.jpg)
+-->
 
 ## I'm a Student, learning and sharing!
 
