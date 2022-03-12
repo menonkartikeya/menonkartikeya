@@ -1,8 +1,17 @@
-### Hey there, I'm Kartikeya  👋
+### [नमस्ते](## "I greet the divine within you") 
+
+<div style="width:100%;float:left">
+I'm Kartikeya. Thanks for dropping by!
+<span style="float:right">
+  <img  style="width:20%; text-align:right;" src="https://komarev.com/ghpvc/?username=menonkartikeya&color=red&style=plastic&label=PROFILE+VISITS">
+</span>
+ </div>
+
 <!--
 ![image](image/cover.jpg)
 -->
-
+##### “Computers are fast; programmers keep it slow.”
+*****
 ## I'm a Student, learning and sharing!
 
 - 🔭 I love to do competitive programming: [Checkout my Hackerrank profile!](https://www.hackerrank.com/menonkartikeya)!
