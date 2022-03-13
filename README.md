@@ -1,24 +1,19 @@
-### [नमस्ते](## "I greet the divine within you") 
+# [नमस्ते](## "I greet the divine within you") <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/124/person-with-folded-hands_1f64f.png">
 
-<div style="width:100%;float:left">
-I'm Kartikeya. Thanks for dropping by!
-<span style="float:right">
-  <img  style="width:20%; text-align:right;" src="https://komarev.com/ghpvc/?username=menonkartikeya&color=red&style=plastic&label=PROFILE+VISITS">
-</span>
- </div>
+I'm [Kartikeya](https://youtu.be/yw6Erg83epQ). Thanks for dropping by! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://visitorbadge.io/status?path=menonkartikeya"><img src="https://api.visitorbadge.io/api/visitors?path=menonkartikeya&label=PROFILE%20VISITS&countColor=%23dce775" /></a> 
 
-<!--
-![image](image/cover.jpg)
--->
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://stackoverflow.com/users/14465779/kartikeya) 
 ##### “Computers are fast; programmers keep it slow.”
+
 *****
 ## I'm a Student, learning and sharing!
 
-- 🔭 I love to do competitive programming: [Checkout my Hackerrank profile!](https://www.hackerrank.com/menonkartikeya)!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators. Helping people on [StackOverflow](https://stackoverflow.com/users/14465779/kartikeya)
-- 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to workout, sing and play basketball
+- I love to do competitive programming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/menonkartikeya) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/menonkartikeya)
+- Helping people on [StackOverflow](https://stackoverflow.com/users/14465779/kartikeya). Improving articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/menonkartikeya/articles), etc.
+- Looking to collaborate with other content creators.
+- Goals: Contribute more to Open Source projects
+- Fun fact: I love to code, workout, sing and play basketball
 
 
 ### Connect with me:
@@ -54,4 +49,6 @@ I'm Kartikeya. Thanks for dropping by!
 <br />
 <br />
 
+
+ ![Kartikeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=menonkartikeya&show_icons=true&theme=dark)&nbsp;&nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=menonkartikeya&theme=dark&date_format=j%20M%5B%20Y%5D&ring=79FE96&fire=79FE96&currStreakLabel=79FE96)](https://git.io/streak-stats)
 ---
