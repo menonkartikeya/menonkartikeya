@@ -1,14 +1,15 @@
 # [नमस्ते](## "I greet the divine within you") <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/124/person-with-folded-hands_1f64f.png">
-I'm [Kartikeya](https://youtu.be/yw6Erg83epQ). Thanks for dropping by! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://visitorbadge.io/status?path=menonkartikeya"><img src="https://api.visitorbadge.io/api/visitors?path=menonkartikeya&label=PROFILE%20VISITS&countColor=%23dce775" /></a> 
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://stackoverflow.com/users/14465779/kartikeya) 
+I'm [Kartikeya](https://youtu.be/yw6Erg83epQ). Thanks for dropping by! 
 ##### “Computers are fast; programmers keep it slow.”
+
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14465779/kartikeya) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/menonkartikeya) 
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/menonkartikeya)
 
 *****
 ## I'm a Student, learning and sharing!
 
-- I love to do competitive programming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/menonkartikeya) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/menonkartikeya)
+- I love to do [competitive programming](https://www.stopstalk.com/user/profile/menonkartikeya)
 - Helping people on [StackOverflow](https://stackoverflow.com/users/14465779/kartikeya). Improving articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/menonkartikeya/articles), etc.
 - Looking to collaborate with other content creators.
 - Goals: Contribute more to Open Source projects
@@ -20,7 +21,6 @@ I'm [Kartikeya](https://youtu.be/yw6Erg83epQ). Thanks for dropping by! &nbsp;&nb
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://menonkartikeya.github.io/My-Portfolio/)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/menonkartikeya)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kartikeya-menon)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kartikeya_menon/?hl=en)
 
 <br />
 
@@ -48,6 +48,15 @@ I'm [Kartikeya](https://youtu.be/yw6Erg83epQ). Thanks for dropping by! &nbsp;&nb
 <br />
 <br />
 
+*****
+<div align="center">
+ 
+ ![Kartikeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=menonkartikeya&show_icons=true&theme=dark)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=menonkartikeya&theme=dark&date_format=j%20M%5B%20Y%5D&ring=79FE96&fire=79FE96&currStreakLabel=79FE96)](https://git.io/streak-stats)
+ 
+ <a href="https://visitorbadge.io/status?path=menonkartikeya"><img src="https://api.visitorbadge.io/api/visitors?path=menonkartikeya&label=PROFILE%20VISITS&countColor=%23dce775" /></a> 
+</div>
+ 
 
- ![Kartikeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=menonkartikeya&show_icons=true&theme=dark)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=menonkartikeya&theme=dark&date_format=j%20M%5B%20Y%5D&ring=79FE96&fire=79FE96&currStreakLabel=79FE96)](https://git.io/streak-stats)
+
 ---
