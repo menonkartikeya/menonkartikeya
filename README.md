@@ -1,7 +1,6 @@
 # [नमस्ते](## "I greet the divine within you") <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/124/person-with-folded-hands_1f64f.png">
-I'm [Kartikeya](https://youtu.be/yw6Erg83epQ). Thanks for dropping by! 
+I'm <a href="https://youtu.be/yw6Erg83epQ" target="_blank">Kartikeya</a>. Thanks for dropping by! 
 ##### “Computers are fast; programmers keep it slow.”
-
 
 
 
