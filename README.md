@@ -12,8 +12,8 @@ I'm <a href="https://youtu.be/yw6Erg83epQ" target="_blank">Kartikeya</a>. Thanks
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/menonkartikeya)
 
 - Practicing [competitive programming](https://www.stopstalk.com/user/profile/menonkartikeya)
-- Helping people on <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14465779/kartikeya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14465779/kartikeya" height="30" width="40" /></a>
-- Contributing to articles on  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/menonkartikeya/articles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/menonkartikeya/articles" height="30" width="40" /></a>
+- Helping people on <a href="https://stackoverflow.com/users/14465779/kartikeya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14465779/kartikeya" height="30" width="40" /></a>
+- Contributing to articles on  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/menonkartikeya/articles" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/menonkartikeya/articles" height="30" width="40" /></a>
 - Goals: Contribute more to Open Source projects
 - I love to code, workout, sing and play basketball
 
@@ -63,10 +63,5 @@ I'm <a href="https://youtu.be/yw6Erg83epQ" target="_blank">Kartikeya</a>. Thanks
  
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menonkartikeya&theme=dark" alt="menonkartikeya" /></a>
  
- <a href="https://visitorbadge.io/status?path=menonkartikeya"><img src="https://api.visitorbadge.io/api/visitors?path=menonkartikeya&label=PROFILE%20VISITS&countColor=%23dce775" /></a> 
+ <a href="https://visitorbadge.io/status?path=menonkartikeya"><img src="https://api.visitorbadge.io/api/visitors?path=menonkartikeya&label=PROFILE%20VISITS&countColor=%2396f596" /></a> 
 </div>
- 
-
-
-
----
