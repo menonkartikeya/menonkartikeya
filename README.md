@@ -56,8 +56,9 @@ I'm <a href="https://youtu.be/yw6Erg83epQ" target="_blank">Kartikeya</a>. Thanks
 </div>
 
 *****
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=menonkartikeya&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="My GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=menonkartikeya&theme=dark&date_format=j%20M%5B%20Y%5D&ring=79FE96&fire=79FE96&currStreakLabel=79FE96&hide_border=true" alt="GitHub Streak"/></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=menonkartikeya&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="My GitHub stats" /></a> | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=menonkartikeya&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=79FE96&fire=79FE96&currStreakLabel=79FE96)](https://git.io/streak-stats) |
 | ------------- | ------------- |
+
 
 <div align="center">
  
