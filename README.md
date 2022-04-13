@@ -50,19 +50,27 @@ I'm <a href="https://youtu.be/yw6Erg83epQ" target="_blank">Kartikeya</a>. Thanks
  <br />
  <br />
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menonkartikeya&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menonkartikeya&theme=dark&bg_color=0D1117&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
  <br />
 </div>
 
 *****
-| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=menonkartikeya&show_icons=true&include_all_commits=true&theme=dark&hide_border=true) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=menonkartikeya&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=79FE96&fire=79FE96&currStreakLabel=79FE96)](https://git.io/streak-stats) |
+| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=menonkartikeya&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0D1117) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=menonkartikeya&theme=dark&background=0D1117&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=79FE96&fire=79FE96&currStreakLabel=79FE96)](https://git.io/streak-stats) |
 | ------------- | ------------- |
 
+ 
+[![Kartikeya's github activity graph](https://activity-graph.herokuapp.com/graph?username=menonkartikeya&theme=react-dark&color=FDFDFD&line=79FE96&hide_border=true&area=true&point=DADADA&custom_title=Contribution%20Graph%20-%20Last%2031%20Days)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ 
 
+ 
+ 
 <div align="center">
  
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menonkartikeya&theme=dark" alt="menonkartikeya" /></a>
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=menonkartikeya&theme=juicyfresh&no-bg=true&no-frame=false&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+ 
  
  <a href="https://visitorbadge.io/status?path=menonkartikeya"><img src="https://api.visitorbadge.io/api/visitors?path=menonkartikeya&label=PROFILE%20VISITS&countColor=%2396f596" /></a> 
 </div>
