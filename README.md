@@ -52,7 +52,6 @@ I'm <a href="https://youtu.be/yw6Erg83epQ" target="_blank">Kartikeya</a>. Thanks
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menonkartikeya&theme=dark&bg_color=0D1117&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
- <br />
 </div>
 
 *****
@@ -62,10 +61,7 @@ I'm <a href="https://youtu.be/yw6Erg83epQ" target="_blank">Kartikeya</a>. Thanks
  
 [![Kartikeya's github activity graph](https://activity-graph.herokuapp.com/graph?username=menonkartikeya&theme=react-dark&color=FDFDFD&line=79FE96&hide_border=true&area=true&point=DADADA&custom_title=Contribution%20Graph%20-%20Last%2031%20Days)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
- 
-
- 
- 
+ *****
 <div align="center">
  
  
